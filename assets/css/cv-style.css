@@ -233,3 +233,7 @@
     background-color: transparent;
   }
 }
+
+.img-fluid.rounded {
+  border-radius: 0 !important;
+}
