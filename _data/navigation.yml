@@ -20,6 +20,6 @@ main:
     url: /teaching/
   - title: "Publications"
     url: /publications/
-#  - title: "CV"
-#    url: /cv/
+  - title: "CV"
+    url: /cv/
 

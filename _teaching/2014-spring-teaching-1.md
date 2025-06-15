@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "ISEN 361 Engineering Economy and Cost Analysis"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2023-Fall-teaching-1
+venue: "NC A&T, Fall 2023, 2024"
+date: 2025-08-16
+#location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+This course introduces the concept of time value of money, cash flows, and the methods of evaluating alternatives based on present worth, annual worth, rate of return, payback period and cost benefit analysis. The course also introduces breakeven analysis, replacement analysis, depreciation methods and the effect of income on taxes and inflation on economy studies.
