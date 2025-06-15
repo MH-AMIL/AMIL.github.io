@@ -12,7 +12,14 @@ main:
     url: /research-projects/
   - title: "Lab members"
     url: /lab-members/
+#  - title: "Talks"
+#    url: /talks/
   - title: "News"
-    url: /news/
+    url: /year-archive/
+  - title: "Teaching"
+    url: /teaching/
   - title: "Publications"
     url: /publications/
+#  - title: "CV"
+#    url: /cv/
+

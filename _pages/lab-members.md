@@ -31,17 +31,17 @@ Dr. Muyue “Margaret” Han is an Assistant Professor in the Department of Indu
   <div>
     <strong>Timilehin (Gloria) Adedeji</strong><br />
     Ph.D. Student<br />
-    Timilehin (Gloria) Adedeji is a doctoral student in Industrial and Systems Engineering.
+    Timilehin (Gloria) Adedeji is a Ph.D. student in Industrial and Systems Engineering.
   </div>
 </div>
 <br><br>
 
 <div style="display: flex; align-items: flex-start;">
-  <img src="/images/profile.png" alt="Biswas Asha Rahman" style="width: 200px; margin-right: 20px;" />
+  <img src="/images/Biswas_Rahman.png" alt="Biswas Asha Rahman" style="width: 200px; margin-right: 20px;" />
   <div>
     <strong>Biswas Asha Rahman</strong><br />
     Ph.D. Student<br />
-    Biswas Asha Rahman is is a doctoral student in Industrial and Systems Engineering.
+    Biswas Asha Rahman is a Ph.D. student in the Department of Industrial and Systems Engineering. She completed her M.Sc. in Industrial & Production Engineering from Bangladesh University of Engineering & Technology and B.Sc. from Ahsanullah University of Science & Technology in the same discipline. Her research focuses on additive manufacturing, sustainable manufacturing, and process modeling and optimization.
   </div>
 </div>
 <br><br>
