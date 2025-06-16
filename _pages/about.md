@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to the Additive Manufacturing and Innovation Laboratory (AMIL)."
+title: "Welcome to the Additive Manufacturing and Innovation Laboratory!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,85 +10,93 @@ redirect_from:
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
   <div>
-    <p>Our research focuses on combining advanced manufacturing, especially additive manufacturing (both 3D and 4D Printing), with artificial intelligence (AI)/machine learning (ML), and data analytics. Our goal is to improve how products are designed and manufactured in ways that are smarter, more efficient, and better for the environment. We look at things such as quality, functionality, scalability, energy efficiency, cost-effectiveness, and how our work can make a positive impact on the society.</p>
+    <p>Our research focuses on combining advanced manufacturing, especially additive manufacturing (AM, both 3D and 4D Printing), with artificial intelligence (AI)/machine learning (ML), and data analytics. Our goal is to improve how products are designed and manufactured in ways that are smarter, more efficient, and better for the environment. We look at things such as quality, functionality, scalability, energy efficiency, cost-effectiveness, and how our work can make a positive impact on the society.</p>
   </div>
   <img src="/images/lab_logo.png" alt="Lab Logo" style="width: 160px; height: auto;" />
 </div>
 
+
 Research Directions
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+<div class="research-direction">
+  <h3><strong>1. Additive Manufacturing of Smart Functional Structures</strong></h3>
+  <p>Additive manufacturing builds parts layer by layer, offering great design freedom and control over functional performance. At AMIL, we advance AM capabilities further by designing and printing stimuli-responsive (“smart”) materials for self-actuating or adaptive structures. Through combined experiments and computational modeling, we map the process-material-property relationships that govern print quality, mechanical strength, and overall performance of the final parts.</p>
+  <img src="/images/R1.jpg" alt="Smart Additive Manufacturing" style="width:70%; margin-bottom: 2em;">
+</div>
 
-Getting started
+<div class="research-direction">
+  <h3><strong>2. Smart & Resilient Supply Chains Enabled by AM</strong></h3>
+  <p>From a systems perspective, AM also supports distributed, cloud-based production services. We build analytical and sequential decision-making tools to show how distributed AM facilities can share capacity, cut waste, and strengthen supply chains under uncertain demand and supply. Our models guide logistics network design, on-demand capacity sharing, and circular material flows, helping industries move toward integrated, resource-efficient, resilient manufacturing systems.</p>
+  <img src="/images/R2.jpg" alt="Resilient Supply Chains" style="width:70%; margin-bottom: 2em;">
+</div>
 
+<div class="research-direction">
+  <h3><strong>3. Sustainability and Life-Cycle Engineering</strong></h3>
+  <p>At AMIL, we integrate sustainability thinking into modern manufacturing at both the process level and across the entire life cycle. We develop predictive models and data-driven tools to quantify energy use, emissions, material flows, and techno-economic viability from design through production, use, and recovery. Coupled with life-cycle assessment (LCA) and techno-economic analysis (TEA), these insights guide the transition toward circular economy and deliver actionable knowledge for sustainable future manufacturing.</p>
+  <img src="/images/R3.jpg" alt="Life Cycle Engineering" style="width:70%; margin-bottom: 2em;">
+</div>
+
+
+Our sponsors
 ======
-
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-
-1. Check status by going to the repository settings, in the "GitHub pages" section
+<div style="text-align: center; margin-top: 2em;">
+  <h2><strong> </strong></h2>
+  <div style="display: flex; justify-content: center; gap: 20px; align-items: center; flex-wrap: wrap; margin-top: 1em;">
+    <img src="/images/Sponsors/NCAT_logo.png" alt="Sponsor 1" style="height: 120px;">
+    <img src="/images/Sponsors/nsf-logo.png" alt="Sponsor 2" style="height: 140px;">
+    <img src="/images/Sponsors/csi-logo.png" alt="Sponsor 3" style="height: 120px;">
+  </div>
+</div>
+<div style="margin-bottom: 3em;"></div>
 
 
-Site-wide configuration
+AMIL Events
+======
+<div class="amil-gallery" style="max-width: 800px; margin: auto;">
+  <div class="slideshow-container" style="position: relative; max-width: 800px; margin: auto;">
+    <div class="mySlides fade">
+      <img src="/images/events/Labimage.jpg" style="width:100%; height:400px; object-fit:cover;">
+    </div>
+    <div class="mySlides fade">
+      <img src="/images/events/iise2025.jpg" style="width:100%; height:400px; object-fit:cover;">
+    </div>
+    <div class="mySlides fade">
+      <img src="/images/events/anika_coe_2025.jpg" style="width:100%; height:400px; object-fit:cover;">
+    </div>
 
-------
+<!-- Next and previous buttons -->
+<a class="prev" onclick="plusSlides(-1)" style="position: absolute; top: 50%; left: 0; transform: translateY(-50%); font-size: 2em; color: white; text-decoration: none; padding: 8px;">&#10094;</a>
+<a class="next" onclick="plusSlides(1)" style="position: absolute; top: 50%; right: 0; transform: translateY(-50%); font-size: 2em; color: white; text-decoration: none; padding: 8px;">&#10095;</a>
+  </div>
+</div>
 
+<style>
+.mySlides {display: none;}
+.fade {animation: fade 1.5s;}
+@keyframes fade {from {opacity: .4} to {opacity: 1}}
+</style>
 
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+<script>
+    let slideIndex = 1;
+    showSlides(slideIndex);
 
+    function plusSlides(n) {
+      showSlides(slideIndex += n);
+    }
 
+    function showSlides(n) {
+      let slides = document.getElementsByClassName("mySlides");
+      if (n > slides.length) {slideIndex = 1}
+      if (n < 1) {slideIndex = slides.length}
+      for (let i = 0; i < slides.length; i++) {
+        slides[i].style.display = "none";  
+      }
+      slides[slideIndex-1].style.display = "block";  
+    }
 
-Create content & metadata
-
-
-------
-
-
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-
-
-**Markdown generator**
-
-
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-
-
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-
-
-How to edit your site's GitHub repository
-
-
-------
-
-
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-
-
-Example: editing a markdown file for a talk
-
-
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-
-
-For more info
-
-
-------
-
-
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+    // Optional auto-advance
+    setInterval(() => {
+      plusSlides(1);
+    }, 3000);
+</script>
