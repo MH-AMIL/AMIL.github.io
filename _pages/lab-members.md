@@ -15,7 +15,7 @@ Dr. Muyue “Margaret” Han is an Assistant Professor in the Department of Indu
 ## Current Members
 
 <div style="display: flex; align-items: flex-start;">
-  <img src="/images/Anika_Akther.jpg" alt="Anika Akther" style="width: 200px; margin-right: 20px;" />
+  <img src="{{ site.baseurl }}/images/Anika_Akther.jpg" alt="Anika Akther" style="width: 200px; margin-right: 20px;" />
   <div>
     <strong>Anika Akther</strong><br />
     Ph.D. Student<br />
@@ -26,7 +26,7 @@ Dr. Muyue “Margaret” Han is an Assistant Professor in the Department of Indu
 
   
 <div style="display: flex; align-items: flex-start;">
-  <img src="/images/profile.png" alt="Timilehin (Gloria) Adedeji" style="width: 200px; margin-right: 20px;" />
+  <img src="{{ site.baseurl }}/images/profile.png" alt="Timilehin (Gloria) Adedeji" style="width: 200px; margin-right: 20px;" />
   <div>
     <strong>Timilehin (Gloria) Adedeji</strong><br />
     Ph.D. Student<br />
@@ -36,7 +36,7 @@ Dr. Muyue “Margaret” Han is an Assistant Professor in the Department of Indu
 <br><br>
 
 <div style="display: flex; align-items: flex-start;">
-  <img src="/images/Biswas_Rahman.png" alt="Biswas Asha Rahman" style="width: 200px; margin-right: 20px;" />
+  <img src="{{ site.baseurl }}/images/Biswas_Rahman.png" alt="Biswas Asha Rahman" style="width: 200px; margin-right: 20px;" />
   <div>
     <strong>Biswas Asha Rahman</strong><br />
     Ph.D. Student<br />
@@ -48,7 +48,7 @@ Dr. Muyue “Margaret” Han is an Assistant Professor in the Department of Indu
 ## Alumni
 
 <div style="display: flex; align-items: flex-start;">
-  <img src="/images/Mya_Mitchell.jpg" alt="Mya Mitchell" style="width: 200px; margin-right: 20px;" />
+  <img src="{{ site.baseurl }}/images/Mya_Mitchell.jpg" alt="Mya Mitchell" style="width: 200px; margin-right: 20px;" />
   <div>
     <strong>Mya Mitchell</strong><br />
     M.S. 2025<br />
