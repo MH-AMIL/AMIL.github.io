@@ -9,7 +9,6 @@ author_profile: true
 
 **Dr. Muyue _"Margaret"_ Han**  
 Assistant Professor
-mhan@ncat.edu
 
 Dr. Muyue “Margaret” Han is an Assistant Professor in the Department of Industrial and Systems Engineering. She holds a Ph.D. in Industrial Engineering and Operations Research from the University of Illinois Chicago and an M.S. in Environmental Engineering from the University of California, Irvine. Her research focuses on the sustainable co-design and additive manufacturing of functionally engineered multi-material structures, integrating machine learning-assisted adaptive process control to enhance printing fidelity, performance, and sustainability. She also explores manufacturing systems integration, including energy management, distributed manufacturing, and closed-loop supply chains, to advance smart, resilient, and sustainable manufacturing practices. Dr. Han’s contributions have been recognized with the 2023 Outstanding Achievement in Energy Engineering Award from the U.S. Department of Energy, and she was named a 2024 Provost’s Faculty Fellow.
 

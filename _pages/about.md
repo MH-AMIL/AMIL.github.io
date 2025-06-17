@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to the Additive Manufacturing and Innovation Laboratory!"
+title: "Welcome to the Additive Manufacturing and Innovation Laboratory (AMIL)!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -36,19 +36,6 @@ Research Directions
   <p>At AMIL, we integrate sustainability thinking into modern manufacturing at both the process level and across the entire life cycle. We develop predictive models and data-driven tools to quantify energy use, emissions, material flows, and techno-economic viability from design through production, use, and recovery. Coupled with life-cycle assessment (LCA) and techno-economic analysis (TEA), these insights guide the transition toward circular economy and deliver actionable knowledge for sustainable future manufacturing.</p>
   <img src="/images/R3.jpg" alt="Life Cycle Engineering" style="width:70%; margin-bottom: 2em;">
 </div>
-
-
-Our sponsors
-======
-<div style="text-align: center; margin-top: 2em;">
-  <h2><strong> </strong></h2>
-  <div style="display: flex; justify-content: center; gap: 20px; align-items: center; flex-wrap: wrap; margin-top: 1em;">
-    <img src="/images/Sponsors/NCAT_logo.png" alt="Sponsor 1" style="height: 120px;">
-    <img src="/images/Sponsors/nsf-logo.png" alt="Sponsor 2" style="height: 140px;">
-    <img src="/images/Sponsors/csi-logo.png" alt="Sponsor 3" style="height: 120px;">
-  </div>
-</div>
-<div style="margin-bottom: 3em;"></div>
 
 
 AMIL Events
@@ -100,3 +87,17 @@ AMIL Events
       plusSlides(1);
     }, 3000);
 </script>
+<div style="margin-bottom: 3em;"></div>
+
+Our sponsors
+======
+<div style="text-align: center; margin-top: 2em;">
+  <h2><strong> </strong></h2>
+  <div style="display: flex; justify-content: center; gap: 20px; align-items: center; flex-wrap: wrap; margin-top: 1em;">
+    <img src="/images/Sponsors/NCAT_logo.png" alt="Sponsor 1" style="height: 120px;">
+    <img src="/images/Sponsors/nsf-logo.png" alt="Sponsor 2" style="height: 140px;">
+
+[//]: # (    <img src="/images/Sponsors/csi-logo.png" alt="Sponsor 3" style="height: 120px;">)
+  </div>
+</div>
+<div style="margin-bottom: 3em;"></div>
