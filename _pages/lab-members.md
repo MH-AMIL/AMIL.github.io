@@ -26,11 +26,11 @@ Dr. Muyue “Margaret” Han is an Assistant Professor in the Department of Indu
 
   
 <div style="display: flex; align-items: flex-start;">
-  <img src="{{ site.baseurl }}/images/profile.png" alt="Timilehin (Gloria) Adedeji" style="width: 200px; margin-right: 20px;" />
+  <img src="{{ site.baseurl }}/images/gloria_adedeji.png" alt="Timilehin (Gloria) Adedeji" style="width: 200px; margin-right: 20px;" />
   <div>
     <strong>Timilehin (Gloria) Adedeji</strong><br />
     Ph.D. Student<br />
-    Timilehin (Gloria) Adedeji is a Ph.D. student in Industrial and Systems Engineering.
+    Timilehin (Gloria) Adedeji is a Ph.D. student in Industrial and Systems Engineering. Her research interests include additive manufacturing, smart materials, and sustainable design. She is currently exploring 3D and 4D printing technologies, with a focus on functional and bio-inspired structures, and how these can be applied to advance sustainability and life-cycle engineering. She previously worked on sustainable and green engineering projects and holds a Master’s degree in Chemistry and a Bachelor’s degree in Science Laboratory Technology.
   </div>
 </div>
 <br><br>
