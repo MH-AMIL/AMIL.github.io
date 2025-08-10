@@ -49,7 +49,13 @@ AMIL Events
       <img src="{{ site.baseurl }}/images/events/iise2025.jpg" style="width:100%; height:400px; object-fit:cover;">
     </div>
     <div class="mySlides fade">
+      <img src="{{ site.baseurl }}/images/events/MSEC25P.jpg" style="width:100%; height:400px; object-fit:cover;">
+    </div>
+    <div class="mySlides fade">
       <img src="{{ site.baseurl }}/images/events/anika_coe_2025.jpg" style="width:100%; height:400px; object-fit:cover;">
+    </div>
+    <div class="mySlides fade">
+      <img src="{{ site.baseurl }}/images/events/MSEC25_anika.jpg" style="width:100%; height:400px; object-fit:cover;">
     </div>
 
 <!-- Next and previous buttons -->
