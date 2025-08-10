@@ -19,7 +19,7 @@ Dr. Muyue “Margaret” Han is an Assistant Professor in the Department of Indu
   <div>
     <strong>Anika Akther</strong><br />
     Ph.D. Student<br />
-    Anika Akther is a doctoral student in Industrial and Systems Engineering at North Carolina A&T State University. Her research focuses on optimization modeling, additive manufacturing (AM), and supply chain network design. She holds a B.Sc. in Industrial and Production Engineering and has hands-on experience working in a multinational sports goods manufacturing company. Drawing on this foundation, she aims to bridge theoretical modeling with industrial application.
+    Anika Akther is a Ph.D. student in Industrial and Systems Engineering at North Carolina A&T State University. Her research focuses on optimization modeling, additive manufacturing (AM), and supply chain network design. She holds a B.Sc. in Industrial and Production Engineering and has hands-on experience working in a multinational sports goods manufacturing company. Drawing on this foundation, she aims to bridge theoretical modeling with industrial application.
   </div>
 </div>
 <br><br>
