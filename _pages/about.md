@@ -100,9 +100,9 @@ Our sponsors
 <div style="text-align: center; margin-top: 2em;">
   <h2><strong> </strong></h2>
   <div style="display: flex; justify-content: center; gap: 20px; align-items: center; flex-wrap: wrap; margin-top: 1em;">
-    <img src="{{ site.baseurl }}/images/Sponsors/NCAT_logo.png" alt="Sponsor 1" style="height: 120px;">
+    <img src="{{ site.baseurl }}/images/Sponsors/NCAT_logo.png" alt="Sponsor 1" style="height: 100px;">
     <img src="{{ site.baseurl }}/images/Sponsors/nsf-logo.png" alt="Sponsor 2" style="height: 140px;">
-    <img src="{{ site.baseurl }}/images/Sponsors/csi-logo.png" alt="Sponsor 3" style="height: 110px;">
+    <img src="{{ site.baseurl }}/images/Sponsors/csi-logo.png" alt="Sponsor 3" style="height: 100px;">
   </div>
 </div>
 <div style="margin-bottom: 3em;"></div>
