@@ -155,7 +155,7 @@ Our sponsors
   <div style="display: flex; justify-content: center; gap: 20px; align-items: center; flex-wrap: wrap; margin-top: 1em;">
     <img src="{{ site.baseurl }}/images/Sponsors/NCAT_logo.png" alt="Sponsor 1" style="height: 100px;">
     <img src="{{ site.baseurl }}/images/Sponsors/nsf-logo.png" alt="Sponsor 2" style="height: 140px;">
-    <img src="{{ site.baseurl }}/images/Sponsors/csi-logo.png" alt="Sponsor 3" style="height: 100px;">
+    <img src="{{ site.baseurl }}/images/Sponsors/ncroep.png" alt="Sponsor 3" style="height: 100px;">
   </div>
 </div>
 <div style="margin-bottom: 3em;"></div>
