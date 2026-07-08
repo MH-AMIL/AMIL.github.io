@@ -63,7 +63,7 @@ AMIL Events
 <div class="slide-caption">Anika attending IISE 2026 (picture with Drs. Yadav and Han)</div>
 </div>
 <div class="mySlides fade" style="display:none;">
-<img src="{{ site.baseurl }}/images/events/G&B_ncat25_award.jpg" style="width:100%; height:400px; object-fit:cover;">
+<img src="{{ site.baseurl }}/images/events/G&B_ncat26_award.jpg" style="width:100%; height:400px; object-fit:cover;">
 <div class="slide-caption">Gloria and Asha receiving the Best Ongoing Doctoral Research Award at the 2026 NC A&amp;T Research Symposium</div>
 </div>
 <div class="mySlides fade" style="display:none;">
