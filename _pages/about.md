@@ -59,6 +59,10 @@ AMIL Events
 <div class="slide-caption">Anika presenting at the IISE 2026 Annual Conference</div>
 </div>
 <div class="mySlides fade" style="display:none;">
+<img src="{{ site.baseurl }}/images/events/26ISE_TA award_A.jpg" style="width:100%; height:400px; object-fit:cover;">
+<div class="slide-caption">Anika receiving the ISE Department Research Assistant of the Year Awards, Spring 2026 </div>
+</div>
+<div class="mySlides fade" style="display:none;">
 <img src="{{ site.baseurl }}/images/events/IISE26_A2.jpeg" style="width:100%; height:400px; object-fit:cover;">
 <div class="slide-caption">Anika attending IISE 2026 (picture with Drs. Yadav and Han)</div>
 </div>
@@ -99,7 +103,7 @@ AMIL Events
 </div>
 </div>
 <style>
-.fade {animation: fade 3s;}
+.fade {animation: fade 2s;}
 @keyframes fade {from {opacity: .4} to {opacity: 1}}
 .mySlides {position: relative;}
 .mySlides img {display: block;}
