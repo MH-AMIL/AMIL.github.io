@@ -63,6 +63,59 @@ AMIL Events
 <a class="next" onclick="plusSlides(1)" style="position: absolute; top: 50%; right: 0; transform: translateY(-50%); font-size: 2em; color: white; text-decoration: none; padding: 8px;">&#10095;</a>
   </div>
 </div>
+AMIL Events
+======
+<div class="amil-gallery" style="max-width: 800px; margin: auto;">
+  <div class="slideshow-container" style="position: relative; max-width: 800px; margin: auto;">
+    <div class="mySlides fade">
+      <img src="{{ site.baseurl }}/images/events/Labimage.jpg" style="width:100%; height:400px; object-fit:cover;">
+    </div>
+    <div class="mySlides fade">
+      <img src="{{ site.baseurl }}/images/events/iise2025.jpg" style="width:100%; height:400px; object-fit:cover;">
+    </div>
+    <div class="mySlides fade">
+      <img src="{{ site.baseurl }}/images/events/MSEC25P.png" style="width:100%; height:400px; object-fit:cover; object-position:top;">
+    </div>
+    <div class="mySlides fade">
+      <img src="{{ site.baseurl }}/images/events/anika_coe_2025.jpg" style="width:100%; height:400px; object-fit:cover;">
+    </div>
+    <div class="mySlides fade">
+      <img src="{{ site.baseurl }}/images/events/MSEC25_anika.png" style="width:100%; height:400px; object-fit:cover;">
+    </div>
+
+    <!-- Next and previous buttons -->
+    <a class="prev" onclick="plusSlides(-1)" style="position: absolute; top: 50%; left: 0; transform: translateY(-50%); font-size: 2em; color: white; text-decoration: none; padding: 8px; cursor: pointer;">&#10094;</a>
+    <a class="next" onclick="plusSlides(1)" style="position: absolute; top: 50%; right: 0; transform: translateY(-50%); font-size: 2em; color: white; text-decoration: none; padding: 8px; cursor: pointer;">&#10095;</a>
+  </div>
+</div>
+
+<script>
+  let slideIndex = 0;
+  let slideTimer;
+
+  function showSlides() {
+    const slides = document.getElementsByClassName("mySlides");
+    for (let i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+    }
+    slideIndex++;
+    if (slideIndex > slides.length) { slideIndex = 1; }
+    slides[slideIndex - 1].style.display = "block";
+    slideTimer = setTimeout(showSlides, 1500); // change image every 1.5 seconds
+  }
+
+  // Arrows still work: clicking jumps to a slide and restarts the timer
+  function plusSlides(n) {
+    clearTimeout(slideTimer);
+    const slides = document.getElementsByClassName("mySlides");
+    slideIndex += n - 1;
+    if (slideIndex >= slides.length) { slideIndex = 0; }
+    if (slideIndex < 0) { slideIndex = slides.length - 1; }
+    showSlides();
+  }
+
+  showSlides();
+</script>
 
 <style>
 .mySlides {display: none;}
