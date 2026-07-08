@@ -45,8 +45,11 @@ AMIL Events
 <div class="mySlides fade" style="display:none;"><img src="{{ site.baseurl }}/images/events/Labimage.jpg" style="width:100%; height:400px; object-fit:cover;"></div>
 <div class="mySlides fade" style="display:none;"><img src="{{ site.baseurl }}/images/events/MSEC26_G.png" style="width:100%; height:400px; object-fit:cover;"></div>
 <div class="mySlides fade" style="display:none;"><img src="{{ site.baseurl }}/images/events/MSEC26_G_poster.jpeg" style="width:100%; height:400px; object-fit:cover;"></div>
-<div class="mySlides fade" style="display:none;"><img src="{{ site.baseurl }}/images/events/iise2025.jpg" style="width:100%; height:400px; object-fit:cover;"></div>
+<div class="mySlides fade" style="display:none;"><img src="{{ site.baseurl }}/images/events/IISE26_A.jpeg" style="width:100%; height:400px; object-fit:cover;"></div>
 <div class="mySlides fade" style="display:none;"><img src="{{ site.baseurl }}/images/events/MSEC25P.png" style="width:100%; height:400px; object-fit:cover; object-position:top;"></div>
+<div class="mySlides fade" style="display:none;"><img src="{{ site.baseurl }}/images/events/26NCAT_symposium.jpg" style="width:100%; height:400px; object-fit:cover;"></div>
+<div class="mySlides fade" style="display:none;"><img src="{{ site.baseurl }}/images/events/IISE26_A2.jpeg" style="width:100%; height:400px; object-fit:cover;"></div>
+<div class="mySlides fade" style="display:none;"><img src="{{ site.baseurl }}/images/events/26Spring_lab.jpg" style="width:100%; height:400px; object-fit:cover;"></div>
 <div class="mySlides fade" style="display:none;"><img src="{{ site.baseurl }}/images/events/anika_coe_2025.jpg" style="width:100%; height:400px; object-fit:cover;"></div>
 <div class="mySlides fade" style="display:none;"><img src="{{ site.baseurl }}/images/events/MSEC25_anika.png" style="width:100%; height:400px; object-fit:cover;"></div>
 <a class="prev" onclick="plusSlides(-1)" style="position: absolute; top: 50%; left: 0; transform: translateY(-50%); font-size: 2em; color: white; text-decoration: none; padding: 8px; cursor: pointer; z-index: 2;">&#10094;</a>
