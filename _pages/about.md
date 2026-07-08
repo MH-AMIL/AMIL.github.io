@@ -79,7 +79,7 @@ AMIL Events
 <div class="slide-caption">Anika presenting her work at the 2026 NC A&amp;T Research Symposium</div>
 </div>
 <div class="mySlides fade" style="display:none;">
-<img src="{{ site.baseurl }}/images/events/NCROEP_A.jpeg" style="width:100%; height:400px; object-fit:cover; object-position:top;">
+<img src="{{ site.baseurl }}/images/events/NCROEP_A.jpeg" style="width:100%; height:400px; object-fit:cover;">
 <div class="slide-caption">Anika presenting her work at the 15th Annual North Carolina Renewable Ocean Energy Symposium</div>
 </div>
 <div class="mySlides fade" style="display:none;">
@@ -93,10 +93,6 @@ AMIL Events
 <div class="mySlides fade" style="display:none;">
 <img src="{{ site.baseurl }}/images/events/anika_coe_2025.jpg" style="width:100%; height:400px; object-fit:cover;">
 <div class="slide-caption">Anika attending the COE Graduate Research Poster Competition 2025</div>
-</div>
-<div class="mySlides fade" style="display:none;">
-<img src="{{ site.baseurl }}/images/events/MSEC25_anika.png" style="width:100%; height:400px; object-fit:cover;">
-<div class="slide-caption">Anika presenting at MSEC 2025</div>
 </div>
 <a class="prev" onclick="plusSlides(-1)" style="position: absolute; top: 50%; left: 0; transform: translateY(-50%); font-size: 2em; color: white; text-decoration: none; padding: 8px; cursor: pointer; z-index: 2;">&#10094;</a>
 <a class="next" onclick="plusSlides(1)" style="position: absolute; top: 50%; right: 0; transform: translateY(-50%); font-size: 2em; color: white; text-decoration: none; padding: 8px; cursor: pointer; z-index: 2;">&#10095;</a>
