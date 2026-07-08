@@ -44,11 +44,11 @@ AMIL Events
 <div class="slideshow-container" style="position: relative; max-width: 800px; margin: auto;">
 <div class="mySlides fade" style="display:none;">
 <img src="{{ site.baseurl }}/images/events/Labimage.jpg" style="width:100%; height:400px; object-fit:cover;">
-<div class="slide-caption">AMIL lab moves to M-ERIC</div>
+<div class="slide-caption">AMIL at the M-ERIC</div>
 </div>
 <div class="mySlides fade" style="display:none;">
 <img src="{{ site.baseurl }}/images/events/MSEC26_G.png" style="width:100%; height:400px; object-fit:cover;">
-<div class="slide-caption">Gloria presenting at MSEC 2026</div>
+<div class="slide-caption">Gloria attending MSEC 2026, supported by an NSF student travel award.</div>
 </div>
 <div class="mySlides fade" style="display:none;">
 <img src="{{ site.baseurl }}/images/events/MSEC26_G_poster.jpeg" style="width:100%; height:400px; object-fit:cover;">
@@ -56,23 +56,35 @@ AMIL Events
 </div>
 <div class="mySlides fade" style="display:none;">
 <img src="{{ site.baseurl }}/images/events/IISE26_A.jpeg" style="width:100%; height:400px; object-fit:cover;">
-<div class="slide-caption">Anika attending the IISE 2026 Annual Conference</div>
-</div>
-<div class="mySlides fade" style="display:none;">
-<img src="{{ site.baseurl }}/images/events/MSEC25P.png" style="width:100%; height:400px; object-fit:cover; object-position:top;">
-<div class="slide-caption">AMIL members attending MSEC 2025</div>
-</div>
-<div class="mySlides fade" style="display:none;">
-<img src="{{ site.baseurl }}/images/events/26NCAT_symposium.jpg" style="width:100%; height:400px; object-fit:cover; object-position:top;">
-<div class="slide-caption">AMIL members at the 2026 NC A&amp;T Research Symposium</div>
-</div>
-<div class="mySlides fade" style="display:none;">
-<img src="{{ site.baseurl }}/images/events/IISE26_A2.jpeg" style="width:100%; height:400px; object-fit:cover;">
 <div class="slide-caption">Anika presenting at the IISE 2026 Annual Conference</div>
 </div>
 <div class="mySlides fade" style="display:none;">
-<img src="{{ site.baseurl }}/images/events/26Spring_lab.jpg" style="width:100%; height:400px; object-fit:cover;">
-<div class="slide-caption">AMIL lab gathering, Spring 2026</div>
+<img src="{{ site.baseurl }}/images/events/IISE26_A2.jpeg" style="width:100%; height:400px; object-fit:cover;">
+<div class="slide-caption">Anika attending IISE 2026 (picture with Drs. Yadav and Han)</div>
+</div>
+<div class="mySlides fade" style="display:none;">
+<img src="{{ site.baseurl }}/images/events/G&B_ncat_award.jpg" style="width:100%; height:400px; object-fit:cover; object-position:top;">
+<div class="slide-caption">Gloria and Asha receiving the Best Ongoing Doctoral Research Award at the 2026 NC A&amp;T Research Symposium</div>
+</div>
+<div class="mySlides fade" style="display:none;">
+<img src="{{ site.baseurl }}/images/events/26NCAT_symposium_G&B.jpg" style="width:100%; height:400px; object-fit:cover; object-position:top;">
+<div class="slide-caption">Gloria and Asha presenting their work at the 2026 NC A&amp;T Research Symposium</div>
+</div>
+<div class="mySlides fade" style="display:none;">
+<img src="{{ site.baseurl }}/images/events/26NCAT_symposium_A.jpg" style="width:100%; height:400px; object-fit:cover; object-position:top;">
+<div class="slide-caption">Anika presenting her work at the 2026 NC A&amp;T Research Symposium</div>
+</div>
+<div class="mySlides fade" style="display:none;">
+<img src="{{ site.baseurl }}/images/events/NCROEP_A.jpg" style="width:100%; height:400px; object-fit:cover; object-position:top;">
+<div class="slide-caption">Anika presenting her work at the 15th Annual North Carolina Renewable Ocean Energy Symposium</div>
+</div>
+<div class="mySlides fade" style="display:none;">
+<img src="{{ site.baseurl }}/images/events/MSEC25_anika.png" style="width:100%; height:400px; object-fit:cover;">
+<div class="slide-caption">Anika attending MSEC 2025, supported by an NSF student travel award.</div>
+</div>
+<div class="mySlides fade" style="display:none;">
+<img src="{{ site.baseurl }}/images/events/MSEC25P.png" style="width:100%; height:400px; object-fit:cover; object-position:top;">
+<div class="slide-caption">Anika presenting her poster at MSEC 2025</div>
 </div>
 <div class="mySlides fade" style="display:none;">
 <img src="{{ site.baseurl }}/images/events/anika_coe_2025.jpg" style="width:100%; height:400px; object-fit:cover;">
@@ -87,7 +99,7 @@ AMIL Events
 </div>
 </div>
 <style>
-.fade {animation: fade 1.5s;}
+.fade {animation: fade 2s;}
 @keyframes fade {from {opacity: .4} to {opacity: 1}}
 .mySlides {position: relative;}
 .mySlides img {display: block;}
