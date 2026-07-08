@@ -42,16 +42,46 @@ AMIL Events
 ======
 <div class="amil-gallery" style="max-width: 800px; margin: auto;">
 <div class="slideshow-container" style="position: relative; max-width: 800px; margin: auto;">
-<div class="mySlides fade" style="display:none;"><img src="{{ site.baseurl }}/images/events/Labimage.jpg" style="width:100%; height:400px; object-fit:cover;"></div>
-<div class="mySlides fade" style="display:none;"><img src="{{ site.baseurl }}/images/events/MSEC26_G.png" style="width:100%; height:400px; object-fit:cover;"></div>
-<div class="mySlides fade" style="display:none;"><img src="{{ site.baseurl }}/images/events/MSEC26_G_poster.jpeg" style="width:100%; height:400px; object-fit:cover;"></div>
-<div class="mySlides fade" style="display:none;"><img src="{{ site.baseurl }}/images/events/IISE26_A.jpeg" style="width:100%; height:400px; object-fit:cover;"></div>
-<div class="mySlides fade" style="display:none;"><img src="{{ site.baseurl }}/images/events/MSEC25P.png" style="width:100%; height:400px; object-fit:cover; object-position:top;"></div>
-<div class="mySlides fade" style="display:none;"><img src="{{ site.baseurl }}/images/events/26NCAT_symposium.jpg" style="width:100%; height:400px; object-fit:cover;"></div>
-<div class="mySlides fade" style="display:none;"><img src="{{ site.baseurl }}/images/events/IISE26_A2.jpeg" style="width:100%; height:400px; object-fit:cover;"></div>
-<div class="mySlides fade" style="display:none;"><img src="{{ site.baseurl }}/images/events/26Spring_lab.jpg" style="width:100%; height:400px; object-fit:cover;"></div>
-<div class="mySlides fade" style="display:none;"><img src="{{ site.baseurl }}/images/events/anika_coe_2025.jpg" style="width:100%; height:400px; object-fit:cover;"></div>
-<div class="mySlides fade" style="display:none;"><img src="{{ site.baseurl }}/images/events/MSEC25_anika.png" style="width:100%; height:400px; object-fit:cover;"></div>
+<div class="mySlides fade" style="display:none;">
+<img src="{{ site.baseurl }}/images/events/Labimage.jpg" style="width:100%; height:400px; object-fit:cover;">
+<div class="slide-caption">AMIL lab moves to M-ERIC</div>
+</div>
+<div class="mySlides fade" style="display:none;">
+<img src="{{ site.baseurl }}/images/events/MSEC26_G.png" style="width:100%; height:400px; object-fit:cover;">
+<div class="slide-caption">Gloria presenting at MSEC 2026</div>
+</div>
+<div class="mySlides fade" style="display:none;">
+<img src="{{ site.baseurl }}/images/events/MSEC26_G_poster.jpeg" style="width:100%; height:400px; object-fit:cover;">
+<div class="slide-caption">Gloria presenting her poster at MSEC 2026</div>
+</div>
+<div class="mySlides fade" style="display:none;">
+<img src="{{ site.baseurl }}/images/events/IISE26_A.jpeg" style="width:100%; height:400px; object-fit:cover;">
+<div class="slide-caption">Anika attending the IISE 2026 Annual Conference</div>
+</div>
+<div class="mySlides fade" style="display:none;">
+<img src="{{ site.baseurl }}/images/events/MSEC25P.png" style="width:100%; height:400px; object-fit:cover; object-position:top;">
+<div class="slide-caption">AMIL members attending MSEC 2025</div>
+</div>
+<div class="mySlides fade" style="display:none;">
+<img src="{{ site.baseurl }}/images/events/26NCAT_symposium.jpg" style="width:100%; height:400px; object-fit:cover;">
+<div class="slide-caption">AMIL members at the 2026 NC A&amp;T Research Symposium</div>
+</div>
+<div class="mySlides fade" style="display:none;">
+<img src="{{ site.baseurl }}/images/events/IISE26_A2.jpeg" style="width:100%; height:400px; object-fit:cover;">
+<div class="slide-caption">Anika presenting at the IISE 2026 Annual Conference</div>
+</div>
+<div class="mySlides fade" style="display:none;">
+<img src="{{ site.baseurl }}/images/events/26Spring_lab.jpg" style="width:100%; height:400px; object-fit:cover;">
+<div class="slide-caption">AMIL lab gathering, Spring 2026</div>
+</div>
+<div class="mySlides fade" style="display:none;">
+<img src="{{ site.baseurl }}/images/events/anika_coe_2025.jpg" style="width:100%; height:400px; object-fit:cover;">
+<div class="slide-caption">Anika attending the COE Graduate Research Poster Competition 2025</div>
+</div>
+<div class="mySlides fade" style="display:none;">
+<img src="{{ site.baseurl }}/images/events/MSEC25_anika.png" style="width:100%; height:400px; object-fit:cover;">
+<div class="slide-caption">Anika presenting at MSEC 2025</div>
+</div>
 <a class="prev" onclick="plusSlides(-1)" style="position: absolute; top: 50%; left: 0; transform: translateY(-50%); font-size: 2em; color: white; text-decoration: none; padding: 8px; cursor: pointer; z-index: 2;">&#10094;</a>
 <a class="next" onclick="plusSlides(1)" style="position: absolute; top: 50%; right: 0; transform: translateY(-50%); font-size: 2em; color: white; text-decoration: none; padding: 8px; cursor: pointer; z-index: 2;">&#10095;</a>
 </div>
@@ -59,6 +89,19 @@ AMIL Events
 <style>
 .fade {animation: fade 1.5s;}
 @keyframes fade {from {opacity: .4} to {opacity: 1}}
+.mySlides {position: relative;}
+.mySlides img {display: block;}
+.slide-caption {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.55);
+  color: white;
+  text-align: center;
+  font-size: 0.95em;
+  padding: 8px 12px;
+}
 </style>
 <script>
 var slideIndex = 0;
@@ -80,6 +123,7 @@ function plusSlides(n) {
   if (slideIndex < 0) { slideIndex = slides.length - 1; }
   showSlides();
 }
+function plusSlidesInit() {}
 if (document.readyState === "loading") {
   document.addEventListener("DOMContentLoaded", showSlides);
 } else {
