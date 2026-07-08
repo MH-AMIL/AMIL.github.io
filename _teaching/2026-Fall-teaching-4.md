@@ -8,4 +8,4 @@ date: 2026-07-08
 #location: "City, Country"
 ---
 
-This course introduces the concept of time value of money, cash flows, and the methods of evaluating alternatives based on present worth, annual worth, rate of return, payback period and cost benefit analysis. The course also introduces breakeven analysis, replacement analysis, depreciation methods and the effect of income on taxes and inflation on economy studies.
+This course is designed to emphasize the use of cost data by engineers in support of the financial management function. Cost functions, cost behavior, cash control, budgeting, and cash-flow analysis are discussed. Prerequisites: Graduate Standing.
