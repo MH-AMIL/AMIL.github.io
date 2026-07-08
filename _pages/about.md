@@ -63,7 +63,7 @@ AMIL Events
 <div class="slide-caption">AMIL members attending MSEC 2025</div>
 </div>
 <div class="mySlides fade" style="display:none;">
-<img src="{{ site.baseurl }}/images/events/26NCAT_symposium.jpg" style="width:100%; height:400px; object-fit:cover;">
+<img src="{{ site.baseurl }}/images/events/26NCAT_symposium.jpg" style="width:100%; height:400px; object-fit:cover; object-position:top;">
 <div class="slide-caption">AMIL members at the 2026 NC A&amp;T Research Symposium</div>
 </div>
 <div class="mySlides fade" style="display:none;">
