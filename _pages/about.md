@@ -63,7 +63,7 @@ AMIL Events
 <div class="slide-caption">Anika attending IISE 2026 (picture with Drs. Yadav and Han)</div>
 </div>
 <div class="mySlides fade" style="display:none;">
-<img src="{{ site.baseurl }}/images/events/G&B_ncat_award.jpg" style="width:100%; height:400px; object-fit:cover; object-position:top;">
+<img src="{{ site.baseurl }}/images/events/G&B_ncat25_award.jpg" style="width:100%; height:400px; object-fit:cover;">
 <div class="slide-caption">Gloria and Asha receiving the Best Ongoing Doctoral Research Award at the 2026 NC A&amp;T Research Symposium</div>
 </div>
 <div class="mySlides fade" style="display:none;">
@@ -75,7 +75,7 @@ AMIL Events
 <div class="slide-caption">Anika presenting her work at the 2026 NC A&amp;T Research Symposium</div>
 </div>
 <div class="mySlides fade" style="display:none;">
-<img src="{{ site.baseurl }}/images/events/NCROEP_A.jpg" style="width:100%; height:400px; object-fit:cover; object-position:top;">
+<img src="{{ site.baseurl }}/images/events/NCROEP_A.jpeg" style="width:100%; height:400px; object-fit:cover; object-position:top;">
 <div class="slide-caption">Anika presenting her work at the 15th Annual North Carolina Renewable Ocean Energy Symposium</div>
 </div>
 <div class="mySlides fade" style="display:none;">
@@ -99,7 +99,7 @@ AMIL Events
 </div>
 </div>
 <style>
-.fade {animation: fade 2s;}
+.fade {animation: fade 3s;}
 @keyframes fade {from {opacity: .4} to {opacity: 1}}
 .mySlides {position: relative;}
 .mySlides img {display: block;}
