@@ -46,6 +46,12 @@ AMIL Events
       <img src="{{ site.baseurl }}/images/events/Labimage.jpg" style="width:100%; height:400px; object-fit:cover;">
     </div>
     <div class="mySlides fade">
+      <img src="{{ site.baseurl }}/images/events/MSEC26_G.png" style="width:100%; height:400px; object-fit:cover;">
+    </div>
+    <div class="mySlides fade">
+      <img src="{{ site.baseurl }}/images/events/MSEC26_G_poster.ipeg" style="width:100%; height:400px; object-fit:cover;">
+    </div>
+    <div class="mySlides fade">
       <img src="{{ site.baseurl }}/images/events/iise2025.jpg" style="width:100%; height:400px; object-fit:cover;">
     </div>
     <div class="mySlides fade">
