@@ -43,6 +43,8 @@ AMIL Events
 <div class="amil-gallery" style="max-width: 800px; margin: auto;">
 <div class="slideshow-container" style="position: relative; max-width: 800px; margin: auto;">
 <div class="mySlides fade" style="display:none;"><img src="{{ site.baseurl }}/images/events/Labimage.jpg" style="width:100%; height:400px; object-fit:cover;"></div>
+<div class="mySlides fade" style="display:none;"><img src="{{ site.baseurl }}/images/events/MSEC2026_G.png" style="width:100%; height:400px; object-fit:cover;"></div>
+<div class="mySlides fade" style="display:none;"><img src="{{ site.baseurl }}/images/events/MSEC26_G_poster.ipeg" style="width:100%; height:400px; object-fit:cover;"></div>
 <div class="mySlides fade" style="display:none;"><img src="{{ site.baseurl }}/images/events/iise2025.jpg" style="width:100%; height:400px; object-fit:cover;"></div>
 <div class="mySlides fade" style="display:none;"><img src="{{ site.baseurl }}/images/events/MSEC25P.png" style="width:100%; height:400px; object-fit:cover; object-position:top;"></div>
 <div class="mySlides fade" style="display:none;"><img src="{{ site.baseurl }}/images/events/anika_coe_2025.jpg" style="width:100%; height:400px; object-fit:cover;"></div>
