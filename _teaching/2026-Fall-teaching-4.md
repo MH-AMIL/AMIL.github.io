@@ -3,7 +3,7 @@ title: "ISEN 731 Engineering Cost Control"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2026-Fall-teaching-4
-venue: "NC A&T, Fall 2026"
+venue: "NC A&T, Fall"
 date: 2026-07-08
 #location: "City, Country"
 ---
