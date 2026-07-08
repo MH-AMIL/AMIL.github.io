@@ -59,7 +59,7 @@ AMIL Events
 <div class="slide-caption">Anika presenting at the IISE 2026 Annual Conference</div>
 </div>
 <div class="mySlides fade" style="display:none;">
-<img src="{{ site.baseurl }}/images/events/26ISE_TA award_A.jpg" style="width:100%; height:400px; object-fit:cover;">
+<img src="{{ site.baseurl }}/images/events/26ISE_TA award_A.jpg" style="width:100%; height:400px; object-fit:cover;object-position:top;">
 <div class="slide-caption">Anika receiving the ISE Department Research Assistant of the Year Awards, Spring 2026 </div>
 </div>
 <div class="mySlides fade" style="display:none;">
