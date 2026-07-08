@@ -43,8 +43,8 @@ AMIL Events
 <div class="amil-gallery" style="max-width: 800px; margin: auto;">
 <div class="slideshow-container" style="position: relative; max-width: 800px; margin: auto;">
 <div class="mySlides fade" style="display:none;"><img src="{{ site.baseurl }}/images/events/Labimage.jpg" style="width:100%; height:400px; object-fit:cover;"></div>
-<div class="mySlides fade" style="display:none;"><img src="{{ site.baseurl }}/images/events/MSEC2026_G.png" style="width:100%; height:400px; object-fit:cover;"></div>
-<div class="mySlides fade" style="display:none;"><img src="{{ site.baseurl }}/images/events/MSEC26_G_poster.ipeg" style="width:100%; height:400px; object-fit:cover;"></div>
+<div class="mySlides fade" style="display:none;"><img src="{{ site.baseurl }}/images/events/MSEC26_G.png" style="width:100%; height:400px; object-fit:cover;"></div>
+<div class="mySlides fade" style="display:none;"><img src="{{ site.baseurl }}/images/events/MSEC26_G_poster.jpeg" style="width:100%; height:400px; object-fit:cover;"></div>
 <div class="mySlides fade" style="display:none;"><img src="{{ site.baseurl }}/images/events/iise2025.jpg" style="width:100%; height:400px; object-fit:cover;"></div>
 <div class="mySlides fade" style="display:none;"><img src="{{ site.baseurl }}/images/events/MSEC25P.png" style="width:100%; height:400px; object-fit:cover; object-position:top;"></div>
 <div class="mySlides fade" style="display:none;"><img src="{{ site.baseurl }}/images/events/anika_coe_2025.jpg" style="width:100%; height:400px; object-fit:cover;"></div>
@@ -53,6 +53,10 @@ AMIL Events
 <a class="next" onclick="plusSlides(1)" style="position: absolute; top: 50%; right: 0; transform: translateY(-50%); font-size: 2em; color: white; text-decoration: none; padding: 8px; cursor: pointer; z-index: 2;">&#10095;</a>
 </div>
 </div>
+<style>
+.fade {animation: fade 1.5s;}
+@keyframes fade {from {opacity: .4} to {opacity: 1}}
+</style>
 <script>
 var slideIndex = 0;
 var slideTimer;
@@ -78,36 +82,6 @@ if (document.readyState === "loading") {
 } else {
   showSlides();
 }
-</script>
-
-<style>
-.mySlides {display: none;}
-.fade {animation: fade 1.5s;}
-@keyframes fade {from {opacity: .4} to {opacity: 1}}
-</style>
-
-<script>
-    let slideIndex = 1;
-    showSlides(slideIndex);
-
-    function plusSlides(n) {
-      showSlides(slideIndex += n);
-    }
-
-    function showSlides(n) {
-      let slides = document.getElementsByClassName("mySlides");
-      if (n > slides.length) {slideIndex = 1}
-      if (n < 1) {slideIndex = slides.length}
-      for (let i = 0; i < slides.length; i++) {
-        slides[i].style.display = "none";  
-      }
-      slides[slideIndex-1].style.display = "block";  
-    }
-
-    // Optional auto-advance
-    setInterval(() => {
-      plusSlides(1);
-    }, 3000);
 </script>
 <div style="margin-bottom: 3em;"></div>
 
